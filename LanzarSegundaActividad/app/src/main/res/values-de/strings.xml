@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Werfen Zweite Aktivität</string>
+    <string name="boton1_name">Zum Activity 2</string>
+    <string name="saludo">Hallo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="apaisado">Ich bin in der Landschaft</string>
+</resources>
